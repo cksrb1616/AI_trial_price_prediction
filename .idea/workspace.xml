@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7833d3c2-2bc3-4ce6-87ab-1e89783f9b23" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/02_using_saved_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minecheckpoint.cpkt.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minecheckpoint.cpkt.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_multireg.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_multireg.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mWB2iMKhWEkAfxVjBwnd6xSe70" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.02_using_saved_model_tf2">
+    <configuration name="01_multireg" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AI_trial_price_prediction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_multireg.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="02_using_saved_model_tf2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AI_trial_price_prediction" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_using_saved_model_tf2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.02_using_saved_model_tf2" />
+        <item itemvalue="Python.01_multireg" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7833d3c2-2bc3-4ce6-87ab-1e89783f9b23" name="Default Changelist" comment="" />
+      <created>1609599261750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609599261750</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1419" height="203" key="GridCell.Tab.0.bottom" timestamp="1609602009390">
+      <screen x="0" y="25" width="1440" height="801" />
+    </state>
+    <state width="1419" height="203" key="GridCell.Tab.0.bottom/0.25.1440.801@0.25.1440.801" timestamp="1609602009390" />
+    <state width="1419" height="203" key="GridCell.Tab.0.center" timestamp="1609602009389">
+      <screen x="0" y="25" width="1440" height="801" />
+    </state>
+    <state width="1419" height="203" key="GridCell.Tab.0.center/0.25.1440.801@0.25.1440.801" timestamp="1609602009389" />
+    <state width="1419" height="203" key="GridCell.Tab.0.left" timestamp="1609602009388">
+      <screen x="0" y="25" width="1440" height="801" />
+    </state>
+    <state width="1419" height="203" key="GridCell.Tab.0.left/0.25.1440.801@0.25.1440.801" timestamp="1609602009388" />
+    <state width="1419" height="203" key="GridCell.Tab.0.right" timestamp="1609602009389">
+      <screen x="0" y="25" width="1440" height="801" />
+    </state>
+    <state width="1419" height="203" key="GridCell.Tab.0.right/0.25.1440.801@0.25.1440.801" timestamp="1609602009389" />
+    <state x="217" y="66" key="SettingsEditor" timestamp="1609599372391">
+      <screen x="0" y="25" width="1440" height="799" />
+    </state>
+    <state x="217" y="66" key="SettingsEditor/0.25.1440.799@0.25.1440.799" timestamp="1609599372391" />
+    <state x="371" y="66" width="674" height="729" key="find.popup" timestamp="1609600169808">
+      <screen x="0" y="25" width="1440" height="801" />
+    </state>
+    <state x="371" y="66" width="674" height="729" key="find.popup/0.25.1440.801@0.25.1440.801" timestamp="1609600169808" />
+  </component>
+</project>

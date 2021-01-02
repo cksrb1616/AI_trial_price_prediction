@@ -31,8 +31,7 @@ b = tf.Variable(tf.random.normal([1],name='bias'))
 def mulreg(x):
     return tf.matmul(x, W) + b
 optimizer = tf.keras.optimizers.SGD(learning_rate = 0.000005)
-#train = optimizer.minimize(cost)
-
+# train = optimizer.minimize(cost)
 
 # hypothesis = tf.matmul(X,W)+b
 # cost = tf.reduce_mean(tf.square(hypothesis-Y))
@@ -64,5 +63,5 @@ for step in range(100001):
 #         print("-배추가격:",hypo_[0])
 saver = tf.compat.v1.train.Saver([W,b])
 sess = tf.compat.v1.Session()
-save_path = saver.save(sess,"/Users/minjunchoi/Downloads/Vegita-master/Data Visualization/minecheckpoint.cpkt")
+save_path = saver.save(sess,"/Users/minjunchoi/Documents/GitHub/AI_trial_price_prediction/minecheckpoint.cpkt")
 print("model is saved")
