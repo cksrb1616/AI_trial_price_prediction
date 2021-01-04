@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7833d3c2-2bc3-4ce6-87ab-1e89783f9b23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/01_multireg_tf1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/checkpoint" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/price data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/saved.cpkt.data-00000-of-00001" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/saved.cpkt.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/saved.cpkt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorfoo-upgraded.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01_multireg.py" beforeDir="false" afterPath="$PROJECT_DIR$/01_multireg_tf2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_using_saved_model_tf1.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_using_saved_model_tf1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1mWB2iMKhWEkAfxVjBwnd6xSe70" />
   <component name="ProjectLevelVcsManager">
@@ -147,40 +140,54 @@
       <option name="presentableId" value="Default" />
       <updated>1609599261750</updated>
     </task>
+    <task id="LOCAL-00001" summary="Couldn't find the way to wright the code in Tensorflow version 2. So, firstly finished code in tf1.">
+      <created>1609603114051</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609603114051</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Couldn't find the way to wright the code in Tensorflow version 2. So, firstly finished code in tf1." />
+    <option name="LAST_COMMIT_MESSAGE" value="Couldn't find the way to wright the code in Tensorflow version 2. So, firstly finished code in tf1." />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1389" height="198" key="GridCell.Tab.0.bottom" timestamp="1609602872133">
+    <state x="326" y="25" key="CommitChangelistDialog2" timestamp="1609603113789">
       <screen x="0" y="25" width="1440" height="801" />
     </state>
-    <state width="1389" height="198" key="GridCell.Tab.0.bottom/0.25.1440.801@0.25.1440.801" timestamp="1609602872133" />
-    <state width="1389" height="198" key="GridCell.Tab.0.center" timestamp="1609602872132">
+    <state x="326" y="25" key="CommitChangelistDialog2/0.25.1440.801@0.25.1440.801" timestamp="1609603113789" />
+    <state width="1389" height="198" key="GridCell.Tab.0.bottom" timestamp="1609799598917">
       <screen x="0" y="25" width="1440" height="801" />
     </state>
-    <state width="1389" height="198" key="GridCell.Tab.0.center/0.25.1440.801@0.25.1440.801" timestamp="1609602872132" />
-    <state width="1389" height="198" key="GridCell.Tab.0.left" timestamp="1609602872131">
+    <state width="1389" height="198" key="GridCell.Tab.0.bottom/0.25.1440.801@0.25.1440.801" timestamp="1609799598917" />
+    <state width="1389" height="198" key="GridCell.Tab.0.center" timestamp="1609799598916">
       <screen x="0" y="25" width="1440" height="801" />
     </state>
-    <state width="1389" height="198" key="GridCell.Tab.0.left/0.25.1440.801@0.25.1440.801" timestamp="1609602872131" />
-    <state width="1389" height="198" key="GridCell.Tab.0.right" timestamp="1609602872132">
+    <state width="1389" height="198" key="GridCell.Tab.0.center/0.25.1440.801@0.25.1440.801" timestamp="1609799598916" />
+    <state width="1389" height="198" key="GridCell.Tab.0.left" timestamp="1609799598915">
       <screen x="0" y="25" width="1440" height="801" />
     </state>
-    <state width="1389" height="198" key="GridCell.Tab.0.right/0.25.1440.801@0.25.1440.801" timestamp="1609602872132" />
+    <state width="1389" height="198" key="GridCell.Tab.0.left/0.25.1440.801@0.25.1440.801" timestamp="1609799598915" />
+    <state width="1389" height="198" key="GridCell.Tab.0.right" timestamp="1609799598917">
+      <screen x="0" y="25" width="1440" height="801" />
+    </state>
+    <state width="1389" height="198" key="GridCell.Tab.0.right/0.25.1440.801@0.25.1440.801" timestamp="1609799598917" />
     <state x="217" y="66" key="SettingsEditor" timestamp="1609599372391">
       <screen x="0" y="25" width="1440" height="799" />
     </state>
     <state x="217" y="66" key="SettingsEditor/0.25.1440.799@0.25.1440.799" timestamp="1609599372391" />
-    <state x="399" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1609602782115">
+    <state x="399" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1609799624041">
       <screen x="0" y="25" width="1440" height="801" />
     </state>
-    <state x="399" y="260" key="com.intellij.ide.util.TipDialog/0.25.1440.801@0.25.1440.801" timestamp="1609602782115" />
-    <state x="508" y="352" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609603067876">
+    <state x="399" y="260" key="com.intellij.ide.util.TipDialog/0.25.1440.801@0.25.1440.801" timestamp="1609799624041" />
+    <state x="508" y="352" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609799667790">
       <screen x="0" y="25" width="1440" height="801" />
     </state>
-    <state x="508" y="352" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.801@0.25.1440.801" timestamp="1609603067876" />
+    <state x="508" y="352" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.801@0.25.1440.801" timestamp="1609799667790" />
     <state x="371" y="66" width="674" height="729" key="find.popup" timestamp="1609600169808">
       <screen x="0" y="25" width="1440" height="801" />
     </state>
