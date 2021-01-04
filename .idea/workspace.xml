@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7833d3c2-2bc3-4ce6-87ab-1e89783f9b23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tensorfoo-upgraded.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7833d3c2-2bc3-4ce6-87ab-1e89783f9b23" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -147,19 +144,27 @@
       <option name="project" value="LOCAL" />
       <updated>1609603114051</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Result of&#10;tf_upgrade_v2 --infile ./02_using_saved_model_tf1.py --outfile ./tensorfoo-upgraded.py&#10;at terminal">
+      <created>1609799723334</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609799723334</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Couldn't find the way to wright the code in Tensorflow version 2. So, firstly finished code in tf1." />
-    <option name="LAST_COMMIT_MESSAGE" value="Couldn't find the way to wright the code in Tensorflow version 2. So, firstly finished code in tf1." />
+    <MESSAGE value="Result of&#10;tf_upgrade_v2 --infile ./02_using_saved_model_tf1.py --outfile ./tensorfoo-upgraded.py&#10;at terminal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Result of&#10;tf_upgrade_v2 --infile ./02_using_saved_model_tf1.py --outfile ./tensorfoo-upgraded.py&#10;at terminal" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="326" y="25" key="CommitChangelistDialog2" timestamp="1609603113789">
+    <state x="326" y="25" key="CommitChangelistDialog2" timestamp="1609799723117">
       <screen x="0" y="25" width="1440" height="801" />
     </state>
-    <state x="326" y="25" key="CommitChangelistDialog2/0.25.1440.801@0.25.1440.801" timestamp="1609603113789" />
+    <state x="326" y="25" key="CommitChangelistDialog2/0.25.1440.801@0.25.1440.801" timestamp="1609799723117" />
     <state width="1389" height="198" key="GridCell.Tab.0.bottom" timestamp="1609799598917">
       <screen x="0" y="25" width="1440" height="801" />
     </state>
