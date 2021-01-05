@@ -29,8 +29,8 @@ sess.run(tf.global_variables_initializer())
 for step in range(100001):
     cost_, hypo_, _ = sess.run([cost, hypothesis, train], feed_dict={X: x_data, Y: y_data})
     if step % 500 == 0:
-        print("#", step, " 손실 비용: ", cost_)
-        print("- 배추 가격: ", hypo_[0])
+        print("#", step, " Loss cost: ", cost_)
+        print("- Price: ", hypo_[0])
 
 # 학습된 모델을 저장합니다.
 saver = tf.train.Saver()

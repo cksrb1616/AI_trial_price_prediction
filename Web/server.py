@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 from flask import Flask, render_template, request
 import datetime
 import tensorflow.compat.v1 as tf
@@ -32,7 +32,7 @@ saver.restore(sess, save_path)
 
 @app.route("/", methods=['GET', 'POST'])
 def index():
-    return render_template(('index.html'))
+    # return render_template(('index.html'))
     if request.method == 'GET': # 그냥 접근했을 시 웹페이지를 보여줘라
         return render_template('index.html')
     if request.method == 'POST': # 파라미터를 받았을 시 이를 전달 받아라
