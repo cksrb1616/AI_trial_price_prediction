@@ -2,153 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7833d3c2-2bc3-4ce6-87ab-1e89783f9b23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Web/model/checkpoint" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/model/saved.cpkt.data-00000-of-00001" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/model/saved.cpkt.index" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/model/saved.cpkt.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/server.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/css/addons/datatables-select.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/css/addons/datatables-select.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/css/addons/datatables.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/css/addons/datatables.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/css/addons/directives.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/css/addons/directives.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/css/addons/flag.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/css/addons/flag.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/css/addons/rating.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/css/addons/rating.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/css/addons/zmd.hierarchical-display.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/css/addons/zmd.hierarchical-display.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/css/mdb.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/css/mdb.lite.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/css/mdb.lite.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/css/mdb.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/css/modules/animations-extended.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/css/modules/animations-extended.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/css/style.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/font/roboto/Roboto-Bold.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/font/roboto/Roboto-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/font/roboto/Roboto-Bold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/font/roboto/Roboto-Bold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/font/roboto/Roboto-Light.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/font/roboto/Roboto-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/font/roboto/Roboto-Light.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/font/roboto/Roboto-Light.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/font/roboto/Roboto-Medium.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/font/roboto/Roboto-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/font/roboto/Roboto-Medium.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/font/roboto/Roboto-Medium.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/font/roboto/Roboto-Regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/font/roboto/Roboto-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/font/roboto/Roboto-Regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/font/roboto/Roboto-Regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/font/roboto/Roboto-Thin.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/font/roboto/Roboto-Thin.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/font/roboto/Roboto-Thin.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/font/roboto/Roboto-Thin.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/img/flags.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/img/lightbox/default-skin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/img/lightbox/default-skin.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/img/lightbox/preloader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/img/overlays/01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/img/overlays/02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/img/overlays/03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/img/overlays/04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/img/overlays/05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/img/overlays/06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/img/overlays/07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/img/overlays/08.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/img/overlays/09.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/img/sample.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/img/svg/arrow_left.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/img/svg/arrow_right.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/img/svg/flags.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/js/addons/datatables-select.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/js/addons/datatables-select.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/js/addons/datatables.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/js/addons/datatables.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/js/addons/imagesloaded.pkgd.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/js/addons/jquery.zmd.hierarchical-display.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/js/addons/jquery.zmd.hierarchical-display.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/js/addons/masonry.pkgd.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/js/addons/progressBar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/js/addons/progressBar.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/js/addons/rating.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/js/addons/rating.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/js/jquery-3.4.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/js/mdb.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/js/mdb.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/js/modules/bs-custom-file-input.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/js/modules/chart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/js/modules/default-file-input.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/js/modules/enhanced-modals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/js/modules/forms-free.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/js/modules/jquery.easing.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/js/modules/scrolling-navbar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/js/modules/treeview.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/js/modules/velocity.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/js/modules/velocity.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/js/modules/waves.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/js/modules/wow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/js/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/_custom-skin.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/_custom-styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/_custom-variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/addons/_datatables-select.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/addons/_datatables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/addons/_directives.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/addons/_flags.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/addons/_hierarchical-display.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/addons/_rating.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/core/_colors.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/core/_global.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/core/_helpers.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/core/_masks.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/core/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/core/_typography.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/core/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/core/_waves.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/core/bootstrap/_functions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/core/bootstrap/_rfs.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/core/bootstrap/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/free/_animations-basic.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/free/_animations-extended.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/free/_badges.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/free/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/free/_cards.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/free/_carousels.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/free/_depreciated.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/free/_dropdowns.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/free/_footers.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/free/_forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/free/_input-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/free/_list-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/free/_loader.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/free/_modals.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/free/_msc.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/free/_navbars.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/free/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/free/_steppers.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/free/_switch.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/free/_tables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/free/_treeview.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/free/modules/animations-extended/_module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/free/modules/animations-extended/animations-extended.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/mdb.lite.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/mdb.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/static/scss/style.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Web/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkpoint" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/saved.cpkt.data-00000-of-00001" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/saved.cpkt.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/saved.cpkt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_using_saved_model_tf1.py" beforeDir="false" afterPath="$PROJECT_DIR$/02_using_saved_model_tf1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/Web/server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Web/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,10 +39,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Web/model" />
       <recent name="$PROJECT_DIR$/Web" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.server">
+  <component name="RunManager" selected="Python.02_using_saved_model_tf1">
     <configuration name="01_multireg_tf1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AI_trial_price_prediction" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -293,8 +151,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.server" />
         <item itemvalue="Python.02_using_saved_model_tf1" />
+        <item itemvalue="Python.server" />
         <item itemvalue="Python.01_multireg_tf1" />
         <item itemvalue="Python.02_using_saved_model_tf2" />
         <item itemvalue="Python.01_multireg_tf2" />
@@ -326,53 +184,61 @@
       <option name="project" value="LOCAL" />
       <updated>1609799723334</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ML result on Web">
+      <created>1609851155052</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609851155052</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Couldn't find the way to wright the code in Tensorflow version 2. So, firstly finished code in tf1." />
     <MESSAGE value="Result of&#10;tf_upgrade_v2 --infile ./02_using_saved_model_tf1.py --outfile ./tensorfoo-upgraded.py&#10;at terminal" />
-    <option name="LAST_COMMIT_MESSAGE" value="Result of&#10;tf_upgrade_v2 --infile ./02_using_saved_model_tf1.py --outfile ./tensorfoo-upgraded.py&#10;at terminal" />
+    <MESSAGE value="ML result on Web" />
+    <option name="LAST_COMMIT_MESSAGE" value="ML result on Web" />
   </component>
   <component name="WindowStateProjectService">
     <state x="322" y="94" key="#Inspections" timestamp="1609851038491">
       <screen x="0" y="25" width="1440" height="799" />
     </state>
     <state x="322" y="94" key="#Inspections/0.25.1440.799@0.25.1440.799" timestamp="1609851038491" />
-    <state x="320" y="25" key="CommitChangelistDialog2" timestamp="1609851138089">
+    <state x="320" y="25" width="1120" height="799" key="CommitChangelistDialog2" timestamp="1609851154523">
       <screen x="0" y="25" width="1440" height="799" />
     </state>
-    <state x="320" y="25" key="CommitChangelistDialog2/0.25.1440.799@0.25.1440.799" timestamp="1609851138089" />
+    <state x="320" y="25" width="1120" height="799" key="CommitChangelistDialog2/0.25.1440.799@0.25.1440.799" timestamp="1609851154523" />
     <state x="326" y="25" key="CommitChangelistDialog2/0.25.1440.801@0.25.1440.801" timestamp="1609799723117" />
-    <state width="1389" height="198" key="GridCell.Tab.0.bottom" timestamp="1609851107357">
-      <screen x="0" y="25" width="1440" height="799" />
+    <state width="1389" height="198" key="GridCell.Tab.0.bottom" timestamp="1609852330467">
+      <screen x="0" y="25" width="1440" height="801" />
     </state>
     <state width="1389" height="198" key="GridCell.Tab.0.bottom/0.25.1440.799@0.25.1440.799" timestamp="1609851107357" />
-    <state width="1389" height="198" key="GridCell.Tab.0.bottom/0.25.1440.801@0.25.1440.801" timestamp="1609850758157" />
-    <state width="1389" height="198" key="GridCell.Tab.0.center" timestamp="1609851107356">
-      <screen x="0" y="25" width="1440" height="799" />
+    <state width="1389" height="198" key="GridCell.Tab.0.bottom/0.25.1440.801@0.25.1440.801" timestamp="1609852330467" />
+    <state width="1389" height="198" key="GridCell.Tab.0.center" timestamp="1609852330466">
+      <screen x="0" y="25" width="1440" height="801" />
     </state>
     <state width="1389" height="198" key="GridCell.Tab.0.center/0.25.1440.799@0.25.1440.799" timestamp="1609851107356" />
-    <state width="1389" height="198" key="GridCell.Tab.0.center/0.25.1440.801@0.25.1440.801" timestamp="1609850758156" />
-    <state width="1389" height="198" key="GridCell.Tab.0.left" timestamp="1609851107356">
-      <screen x="0" y="25" width="1440" height="799" />
+    <state width="1389" height="198" key="GridCell.Tab.0.center/0.25.1440.801@0.25.1440.801" timestamp="1609852330466" />
+    <state width="1389" height="198" key="GridCell.Tab.0.left" timestamp="1609852330466">
+      <screen x="0" y="25" width="1440" height="801" />
     </state>
     <state width="1389" height="198" key="GridCell.Tab.0.left/0.25.1440.799@0.25.1440.799" timestamp="1609851107356" />
-    <state width="1389" height="198" key="GridCell.Tab.0.left/0.25.1440.801@0.25.1440.801" timestamp="1609850758155" />
-    <state width="1389" height="198" key="GridCell.Tab.0.right" timestamp="1609851107356">
-      <screen x="0" y="25" width="1440" height="799" />
+    <state width="1389" height="198" key="GridCell.Tab.0.left/0.25.1440.801@0.25.1440.801" timestamp="1609852330466" />
+    <state width="1389" height="198" key="GridCell.Tab.0.right" timestamp="1609852330467">
+      <screen x="0" y="25" width="1440" height="801" />
     </state>
     <state width="1389" height="198" key="GridCell.Tab.0.right/0.25.1440.799@0.25.1440.799" timestamp="1609851107356" />
-    <state width="1389" height="198" key="GridCell.Tab.0.right/0.25.1440.801@0.25.1440.801" timestamp="1609850758156" />
+    <state width="1389" height="198" key="GridCell.Tab.0.right/0.25.1440.801@0.25.1440.801" timestamp="1609852330467" />
     <state x="217" y="66" key="SettingsEditor" timestamp="1609599372391">
       <screen x="0" y="25" width="1440" height="799" />
     </state>
     <state x="217" y="66" key="SettingsEditor/0.25.1440.799@0.25.1440.799" timestamp="1609599372391" />
-    <state x="399" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1609851003827">
+    <state x="399" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1609851518443">
       <screen x="0" y="25" width="1440" height="799" />
     </state>
-    <state x="399" y="259" key="com.intellij.ide.util.TipDialog/0.25.1440.799@0.25.1440.799" timestamp="1609851003827" />
+    <state x="399" y="259" key="com.intellij.ide.util.TipDialog/0.25.1440.799@0.25.1440.799" timestamp="1609851518443" />
     <state x="399" y="260" key="com.intellij.ide.util.TipDialog/0.25.1440.801@0.25.1440.801" timestamp="1609841633820" />
     <state x="508" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609851116334">
       <screen x="0" y="25" width="1440" height="799" />

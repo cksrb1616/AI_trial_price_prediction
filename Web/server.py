@@ -48,7 +48,7 @@ def index():
         # 입력된 파라미터를 배열 형태로 준비합니다.
         data = ((avg_temp, min_temp, max_temp, rain_fall), (0, 0, 0, 0))
         arr = np.array(data, dtype=np.float32)
-
+s
         # 입력 값을 토대로 예측 값을 찾아냅니다.
         x_data = arr[0:4]
         dict = sess.run(hypothesis, feed_dict={X: x_data})

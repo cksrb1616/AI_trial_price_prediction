@@ -20,7 +20,7 @@ rain_fall = float(input('Probability of Rain: '))
 
 with tf.Session() as sess:
     sess.run(model)
-    save_path = "./saved.cpkt"
+    save_path = "/Users/minjunchoi/Documents/GitHub/AI_trial_price_prediction/Web/model/saved.cpkt"
     saver.restore(sess, save_path)
 
     data = ((avg_temp, min_temp, max_temp, rain_fall), (0, 0, 0, 0))
