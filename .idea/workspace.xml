@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7833d3c2-2bc3-4ce6-87ab-1e89783f9b23" name="Default Changelist" comment="" />
+    <list default="true" id="7833d3c2-2bc3-4ce6-87ab-1e89783f9b23" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Web/server.py" beforeDir="false" afterPath="$PROJECT_DIR$/Web/server_flask.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +41,7 @@
       <recent name="$PROJECT_DIR$/Web" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.server">
+  <component name="RunManager" selected="Python.server_flask">
     <configuration name="01_multireg_tf1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AI_trial_price_prediction" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="server_flask" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AI_trial_price_prediction" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,7 +138,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Web/server.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Web/server_flask.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,7 +149,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.server" />
+        <item itemvalue="Python.server_flask" />
         <item itemvalue="Python.02_using_saved_model_tf1" />
         <item itemvalue="Python.01_multireg_tf1" />
         <item itemvalue="Python.02_using_saved_model_tf2" />
@@ -250,11 +253,11 @@
       <screen x="0" y="25" width="1440" height="799" />
     </state>
     <state x="217" y="66" key="SettingsEditor/0.25.1440.799@0.25.1440.799" timestamp="1609599372391" />
-    <state x="399" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1609851518443">
-      <screen x="0" y="25" width="1440" height="799" />
+    <state x="399" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1609926595525">
+      <screen x="0" y="25" width="1440" height="801" />
     </state>
     <state x="399" y="259" key="com.intellij.ide.util.TipDialog/0.25.1440.799@0.25.1440.799" timestamp="1609851518443" />
-    <state x="399" y="260" key="com.intellij.ide.util.TipDialog/0.25.1440.801@0.25.1440.801" timestamp="1609841633820" />
+    <state x="399" y="260" key="com.intellij.ide.util.TipDialog/0.25.1440.801@0.25.1440.801" timestamp="1609926595525" />
     <state x="508" y="352" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609855751256">
       <screen x="0" y="25" width="1440" height="801" />
     </state>
