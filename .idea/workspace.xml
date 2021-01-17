@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="7833d3c2-2bc3-4ce6-87ab-1e89783f9b23" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Web/server_flask.py" beforeDir="false" afterPath="$PROJECT_DIR$/Web/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01_multireg_tf2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Web/tensorflow2/01_multireg_tf2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_using_saved_model_autoconvert_tf2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Web/tensorflow2/02_using_saved_model_autoconvert_tf2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_using_saved_model_tf2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Web/tensorflow2/02_using_saved_model_tf2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Heroku.zip" beforeDir="false" afterPath="$PROJECT_DIR$/Web/tensorflow2/Heroku.zip" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +40,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Web/tensorflow2" />
       <recent name="$PROJECT_DIR$/Web/model" />
       <recent name="$PROJECT_DIR$/Web" />
     </key>
@@ -75,7 +79,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_multireg_tf2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Web/tensorflow2/01_multireg_tf2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +121,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02_using_saved_model_tf2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Web/tensorflow2/02_using_saved_model_tf2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -253,20 +257,20 @@
       <screen x="0" y="25" width="1440" height="799" />
     </state>
     <state x="217" y="66" key="SettingsEditor/0.25.1440.799@0.25.1440.799" timestamp="1609599372391" />
-    <state x="399" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1610358472185">
+    <state x="399" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1610918850042">
       <screen x="0" y="25" width="1440" height="801" />
     </state>
     <state x="399" y="259" key="com.intellij.ide.util.TipDialog/0.25.1440.799@0.25.1440.799" timestamp="1609851518443" />
-    <state x="399" y="260" key="com.intellij.ide.util.TipDialog/0.25.1440.801@0.25.1440.801" timestamp="1610358472185" />
+    <state x="399" y="260" key="com.intellij.ide.util.TipDialog/0.25.1440.801@0.25.1440.801" timestamp="1610918850042" />
     <state x="399" y="261" key="com.intellij.ide.util.TipDialog/0.25.1440.804@0.25.1440.804" timestamp="1610290146109" />
-    <state x="508" y="352" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609855751256">
+    <state x="508" y="352" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610919655116">
       <screen x="0" y="25" width="1440" height="801" />
     </state>
     <state x="508" y="351" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.799@0.25.1440.799" timestamp="1609851116334" />
-    <state x="508" y="352" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.801@0.25.1440.801" timestamp="1609855751256" />
-    <state x="371" y="66" width="827" height="729" key="find.popup" timestamp="1609855583088">
+    <state x="508" y="352" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.801@0.25.1440.801" timestamp="1610919655116" />
+    <state x="371" y="66" width="827" height="729" key="find.popup" timestamp="1610918921184">
       <screen x="0" y="25" width="1440" height="801" />
     </state>
-    <state x="371" y="66" width="827" height="729" key="find.popup/0.25.1440.801@0.25.1440.801" timestamp="1609855583088" />
+    <state x="371" y="66" width="827" height="729" key="find.popup/0.25.1440.801@0.25.1440.801" timestamp="1610918921184" />
   </component>
 </project>

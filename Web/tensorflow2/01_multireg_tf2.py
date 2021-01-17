@@ -6,7 +6,7 @@ import keras
 import os
 
 #model = tf.global_variabel_initializer()
-data = read_csv('data.csv',encoding = "ISO-8859-1")
+data = read_csv('../../data.csv', encoding ="ISO-8859-1")
 data = data.rename(columns={"³¯Â¥": "year", "Æò±Õ Ç³¼Ó": "avgTemp", "ÃÖÀú ±â¿Â": "minTemp","ÃÖ°í ±â¿Â":"maxTemp","°­¼ö·®":"rainFall","Æò±Õ °¡°Ý":"avgPrice"}, errors="raise")
 
 def clean(x):
