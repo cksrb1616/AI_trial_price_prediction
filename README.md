@@ -12,7 +12,7 @@ Every year, there is a severe change in price of cabbage in Korea, Especially in
 ### Reference
 * [Github of Youtuber](https://github.com/ndb796)
 
-### 서버 실행 명령어
+### Sever Initiation
 ```
 # Download the Source Code
 https://github.com/cksrb1616/Price_Prediction_Cabbage_for_Kimchi
